@@ -1,0 +1,8 @@
+snowyowl 8
+browncreeper 4
+bluejay 6
+robin 8
+whiskeyjack 11
+bluetit 3
+crow 9
+raven 100
