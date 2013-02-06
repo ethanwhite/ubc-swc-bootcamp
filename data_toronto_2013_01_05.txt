@@ -1,0 +1,5 @@
+goose 5
+eagle 2
+heron 3
+trogon 1
+mallard 9

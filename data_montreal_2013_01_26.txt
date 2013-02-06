@@ -1,0 +1,7 @@
+goose 5
+bluejay 3
+eagle 2
+heron 3
+trogon 5
+pigeon 1
+mallard 9
