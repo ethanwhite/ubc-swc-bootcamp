@@ -57,7 +57,7 @@ their species ID, sex and weight in grams.
 
 Let’s write an SQL query that selects only the year column from the surveys table.
 
-    SELECT scientific_name FROM species;
+    SELECT year FROM surveys;
 
 We have capitalized the words SELECT and FROM because they are SQL keywords.
 SQL is case insensitive, but it helps for readability – good style.
